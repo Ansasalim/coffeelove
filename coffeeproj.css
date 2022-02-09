@@ -1,0 +1,145 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Alfa+Slab+One&family=Anton&family=Bebas+Neue&family=Licorice&family=Moo+Lah+Lah&family=Oswald&family=Pacifico&family=Staatliches&family=Vujahday+Script&family=Yuji+Hentaigana+Akari&display=swap');
+.c1{
+     width: 100%;
+     height: 50%;
+     margin-top: 38px;
+     margin-left: -22px;
+     color: black;
+     text-align: right;
+     font-family: 'Staatliches', cursive;
+     position: sticky;
+     top: 0px;
+     background-color:burlywood;
+     padding:15px;
+}
+.para{
+    width: 100%;
+    height: 400px;
+    margin-top: -258px;
+    margin-left: 0px;
+    text-align: center;
+    color: black;
+    background-color: burlywood;
+}
+a{
+text-decoration: none;
+color: black;
+padding: 70px;
+}
+h1{
+    margin-top: -16px;
+    margin-left: 32px;
+    color:antiquewhite;    
+    font-family: 'Oswald', sans-serif;
+}
+body{
+    background-image: url(./images/pexels-photo-326333.jpeg);
+    
+}
+.div{
+    width: 250px;
+    
+    margin-top: -2px;
+    margin-left: 550px;
+    background-image: url(https://www.behance.net/gallery/115852393/Coffee?tracking_source=search_projects_recommended%7Ccoffee+lover);
+}
+p{
+    color: black;
+text-align:justify ;
+margin-left: 50px;
+margin-right: 50px;
+font-family: 'Acme', sans-serif;
+}
+.c3{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    align-items: center;
+justify-content: space-around;
+
+}
+.vari{
+    width: 19%;
+    height: 350px;
+    border: white 2px solid;
+    background-color: burlywood;
+}
+img{
+    width: 100%;
+    height: 170px;
+}
+h3{
+    color: black;
+    
+}
+button{
+    background-color: burlywood;
+    color:black;
+    font-family: 'Oswald', sans-serif;
+border: white 2px solid;
+border-radius: 20px;
+padding-left: 16px;
+margin-left: 17px;
+margin-top:  27px; 
+}
+h2{
+    
+    color: black;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+.v2{
+    width: 100%;
+    height: 350px;
+    display: flex; 
+    align-items: center;
+    justify-content: space-evenly;
+ 
+}
+.c4{
+    width: 100%;
+    height: 500px; 
+    color: black;
+    background-color:burlywood;
+    margin-top: 101px;
+    margin-left:0px;
+    text-align: center;
+}
+
+.c5{
+    width: 19%;
+    height: 400px;
+    
+   
+}
+blockquote{
+    color: antiquewhite;
+    font-family: 'Acme', sans-serif;
+    text-align: center;
+    margin-top: 100px;
+}
+input{
+    width: 500px;
+    height: 40px;
+    margin-top: -22px;
+    margin-left: 362px;
+    background-color: burlywood;
+}
+   h4{
+       color: black;
+   }
+.m1{
+    width: 500px;
+    height: 700px; 
+    margin-top: -114px;
+    margin-left: 580px;
+    display: flex; 
+}
+.features{
+    width: 100%;
+    height: 400px;
+    text-align: center;
+    color: black;
+    background-color: burlywood;
+}
